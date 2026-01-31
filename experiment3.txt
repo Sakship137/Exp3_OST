@@ -1,0 +1,11 @@
+Experiment 3: Remote Repository and Branch Management
+Student: Sakshi Pandey
+
+This file demonstrates:
+1. Creating a new branch
+2. Making changes in the branch
+3. Merging with main branch
+4. Pushing to remote repository
+
+Branch: feature-branch
+Date: $(date)
