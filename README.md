@@ -8,8 +8,8 @@ To collaborate using GitHub and manage multiple branches.
 ## Activities Completed
 1. ✅ Created a feature branch
 2. ✅ Made changes in the branch
-3. ⏳ Merge with main branch
-4. ⏳ Push to remote repository
+3. ✅ Merge with main branch
+4. ✅ Push to remote repository
 
 ## Branch Workflow
 - Main branch: master
