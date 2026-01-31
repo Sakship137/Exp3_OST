@@ -1,7 +1,7 @@
 Application Configuration
 ========================
-Version: 1.0
+Version: 1.5
 Author: Sakshi Pandey
-Environment: Development
-Database: MySQL
-Port: 3000
+Environment: Testing
+Database: MongoDB
+Port: 5000
