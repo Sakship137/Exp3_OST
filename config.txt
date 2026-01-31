@@ -1,7 +1,7 @@
 Application Configuration
 ========================
-Version: 2.0
+Version: 2.1
 Author: Sakshi Pandey
-Environment: Production
+Environment: Staging
 Database: PostgreSQL
 Port: 8080
