@@ -1,0 +1,7 @@
+Application Configuration
+========================
+Version: 1.0
+Author: Sakshi Pandey
+Environment: Development
+Database: MySQL
+Port: 3000
